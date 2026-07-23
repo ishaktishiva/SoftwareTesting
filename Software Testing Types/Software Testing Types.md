@@ -21,4 +21,4 @@
 - [ ] Retesting
 
 ## Non Functional Testing
--[ ] Non Functional Testing
+- [ ] Non Functional Testing
